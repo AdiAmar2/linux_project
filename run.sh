@@ -1,5 +1,5 @@
 git init
-
+git remote add origin https://github.com/AdiAmar2/linux_project.git
 echo "This is a demo file" > demo.txt
 
 git add .
