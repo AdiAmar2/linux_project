@@ -1,0 +1,11 @@
+BugId,Description,branch,Developer Name,Bug Priority,GITHUB URL
+101,Fix responsive layout issues on mobile devices,BR_101,John Doe,1,https://github.com/example/repo.git
+102,Implement user authentication and authorization,BR_102,Jane Smith,2,https://github.com/example/repo.git
+103,Optimize database queries for better performance,BR_103,Mike Johnson,3,https://github.com/example/repo.git
+104,Add search functionality to the product catalog,BR_104,Sarah Lee,1,https://github.com/example/repo.git
+105,Fix broken links and 404 errors,BR_105,David Brown,2,https://github.com/example/repo.git
+106,Improve error handling and logging,BR_106,Emily Davis,3,https://github.com/example/repo.git
+107,Implement user profile editing feature,BR_107,Michael Wilson,1,https://github.com/example/repo.git
+108,Add support for multiple languages,BR_108,Jennifer Taylor,2,https://github.com/example/repo.git
+109,Refactor codebase for better maintainability,BR_109,Christopher Anderson,3,https://github.com/example/repo.git
+110,Implement social media sharing functionality,BR_110,Amanda Thomas,1,https://github.com/example/repo.git
